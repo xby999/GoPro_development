@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+./inc/BufferNegotiator.h
+stdint.h
+-
+
+/root/temp/GoProStreamDemo/demuxing_decoding.c
+libavutil/imgutils.h
+-
+libavutil/samplefmt.h
+-
+libavutil/timestamp.h
+-
+libavformat/avformat.h
+-
+libavformat/avio.h
+-
+BufferNegotiator.h
+/root/temp/GoProStreamDemo/BufferNegotiator.h
+stdlib.h
+/root/temp/GoProStreamDemo/stdlib.h
+

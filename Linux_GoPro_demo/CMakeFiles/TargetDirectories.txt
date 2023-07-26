@@ -1,0 +1,3 @@
+/root/temp/GoProStreamDemo/CMakeFiles/rebuild_cache.dir
+/root/temp/GoProStreamDemo/CMakeFiles/GoPro.dir
+/root/temp/GoProStreamDemo/CMakeFiles/edit_cache.dir
